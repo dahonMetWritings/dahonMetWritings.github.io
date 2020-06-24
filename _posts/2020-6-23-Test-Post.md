@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test
-published: false
+published: true 
 ---
 
 Yo this shit working
