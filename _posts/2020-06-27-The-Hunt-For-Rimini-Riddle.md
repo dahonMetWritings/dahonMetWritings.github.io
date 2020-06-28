@@ -15,9 +15,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## How'd I Get this Info
 
-1. [Claudia Carroll's essay] (https://web.archive.org/web/20171205194055/http://www.rte.ie/tv50/essays/claudiacarroll.html)
+1. [Claudia Carroll's essay](https://web.archive.org/web/20171205194055/http://www.rte.ie/tv50/essays/claudiacarroll.html)
 
-2. [Don't Feed the Gondolas' bit] (https://www.youtube.com/watch?v=FCrSTBRkqUY_)
+2. [Don't Feed the Gondolas' bit](https://www.youtube.com/watch?v=FCrSTBRkqUY_)
 
 3. [The MIA showrunner's website](http://dominicmoore.ie/index.php/about/)
 
