@@ -21,7 +21,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 3. [The MIA showrunner's website](http://dominicmoore.ie/index.php/about/)
 
-4. [Lost Media Wiki's article] (https://lostmediawiki.com/The_Rimini_Riddle_(partially_found_Irish_puppet_TV_series;_1992-1995))
+4. [Lost Media Wiki's article](https://lostmediawiki.com/The_Rimini_Riddle_(partially_found_Irish_puppet_TV_series;_1992-1995)
 
 5. [A Youtube Poop by Sebastian Cyr](https://www.youtube.com/watch?v=xxGzp9RYTZ8)
 
