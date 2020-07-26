@@ -5,7 +5,7 @@ published: false
 
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
-### What Are You Looking At?
+What Are You Looking At?
 	You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… 
 
 (insert gif here)
@@ -26,7 +26,7 @@ There are more differences it has from Gravity Falls. Besides everyone looking l
 	Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
 
-### Who's Responsible? Note - Get more info on what these cats actually did holy shit
+Who's Responsible? Note - Get more info on what these cats actually did holy shit
 
 I tried emailing RTE themselves. 
 
@@ -50,7 +50,7 @@ Brendan O’ Connor
 He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY) at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
 
-### Where's It Now?
+Where's It Now?
 	Naturally, something as strange, mysterious, and frankly meme-worthy as this would spark the interest of internet losers. *ahem* That leaves us with the question, where is it? …
 
 	Were you not listening you knobhead, I just said it was lost. Even the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
@@ -58,7 +58,7 @@ He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this
 	Am I optimistic about us uncovering all 65 episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Gravity Falls proves a show like this can work, Over the Garden Wall proves horror-dramas can work for kids. Frankly this more mature and complex era of children's television is just begging for a revival of this. Wink wink nudge nudge RT-aaand no one at RTE’s watching this. Well, on the off chance someone at RTE is and thinking about a reboot, maybe have it not look like 
 
 
-### Why?
+Why?
 	The real people who worked on this show aren’t the only mysteries. The puppets of the people in the world of this show on this network in this country of Ireland in th-(insert funny sound effect here)
 are pretty mysterious too. Or at the very least, mysterious looking.
 
