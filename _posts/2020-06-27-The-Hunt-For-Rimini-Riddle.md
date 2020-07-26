@@ -10,7 +10,7 @@ What Are You Looking At?
 
  That. Okay there’s more to it than. 
 
-   The premise of the show is basically Gravity Falls but everyone looks like Eminem’s mom. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. Like a portrait of these little girls who drowned in the ocean. That their aunt just has, hanging around. Or not-Dipper’s toy otter being some baby-eating demon.
+  The premise of the show is basically Gravity Falls but everyone looks like Eminem’s mom. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. Like a portrait of these little girls who drowned in the ocean. That their aunt just has, hanging around. Or not-Dipper’s toy otter being some baby-eating demon.
     
 (every mentioned character needs an accompanying image)
 
