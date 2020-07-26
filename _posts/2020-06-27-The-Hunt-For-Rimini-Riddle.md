@@ -25,7 +25,7 @@ There are more differences it has from Gravity Falls. Besides everyone looking l
    Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
 
-Who's Responsible? Note - Get more info on what these cats actually did holy shit
+### Who's Responsible? Note - Get more info on what these cats actually did holy shit
 
 I tried emailing RTE themselves. 
 
