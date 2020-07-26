@@ -3,6 +3,8 @@ published: false
 ---
 ## The Hunt For Rimini Riddle
 
+![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
+
 What Are You Looking At?
 	You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… 
 
@@ -10,17 +12,22 @@ What Are You Looking At?
 
  That. Okay there’s more to it than. 
 
+
    The premise of the show is basically Gravity Falls but everyone looks like Eminem’s mom. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. Like a portrait of these little girls who drowned in the ocean. That their aunt just has, hanging around. Or not-Dipper’s toy otter being some baby-eating demon.
     
 (every mentioned character needs an accompanying image)
 
 There are more differences it has from Gravity Falls. Besides everyone looking like...
 
+
    there’s the half-melted candle looking-guy that’s trying to get Aunt Vera’s dosh. There are also these blackface-looking cats that make me want to unsee everything. They’re called the Conger Sisters.
+
 
    As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom. The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
+
    So how does this all add up? What is the Conger Sisters’ relation to any of the characters I mentioned? What are the personalities of the three main characters? Why is this house called the Rimini house? Why is Otto a bastard?
+
 
    Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
