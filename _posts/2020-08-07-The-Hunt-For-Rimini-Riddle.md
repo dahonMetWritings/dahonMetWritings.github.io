@@ -5,7 +5,7 @@ published: false
 
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
-What Are You Looking At?
+## What Are You Looking At?
 	You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… 
 
 (insert gif here)
