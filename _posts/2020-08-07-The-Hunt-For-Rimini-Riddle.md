@@ -13,23 +13,23 @@ published: false
  That. Okay there’s more to it than. 
 
 
-   The premise of the show is basically Gravity Falls but everyone looks like your insecurities. Unnecessarily disgusting, but maybe salvagable. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. [7]
+The premise of the show is basically Gravity Falls but everyone looks like your insecurities. Unnecessarily disgusting, but maybe salvagable. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. [7]
     
 (every mentioned character needs an accompanying image)
 
 There are more differences it has from Gravity Falls. Besides everyone looking like...
 
 
-   there’s the half-melted candle looking-guy that’s trying to get Aunt Vera’s dosh [10]. And uh...
+there’s the half-melted candle looking-guy that’s trying to get Aunt Vera’s dosh [10]. And uh...
 
 
-   As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
+As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
 
-   So how does this all add up? What is the Conger Sisters’ relation to any of the characters I mentioned? What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard?
+So how does this all add up? What is the Conger Sisters’ relation to any of the characters I mentioned? What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard?
 
 
-   Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
+Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
 
 ### Who's Responsible? Note - Get more info on what these cats actually did holy shit
