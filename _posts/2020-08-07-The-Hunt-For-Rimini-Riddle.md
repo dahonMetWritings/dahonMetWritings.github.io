@@ -13,20 +13,20 @@ What Are You Looking At?
  That. Okay there’s more to it than. 
 
 
-   The premise of the show is basically Gravity Falls but everyone looks like Eminem’s mom. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon.
+   The premise of the show is basically Gravity Falls but everyone looks like your insecurities. Unnecessarily disgusting, but maybe salvagable. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shenanigans the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. [7]
     
 (every mentioned character needs an accompanying image)
 
 There are more differences it has from Gravity Falls. Besides everyone looking like...
 
 
-   there’s the half-melted candle looking-guy that’s trying to get Aunt Vera’s dosh. And uh...
+   there’s the half-melted candle looking-guy that’s trying to get Aunt Vera’s dosh [10]. And uh...
 
 
-   As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom. The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
+   As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
 
-   So how does this all add up? What is the Conger Sisters’ relation to any of the characters I mentioned? What are the personalities of the three main characters? Why is this house called the Rimini house? Why is Otto a bastard?
+   So how does this all add up? What is the Conger Sisters’ relation to any of the characters I mentioned? What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard?
 
 
    Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Actually we know who was in those puppets’ butts, but other than that, and all this info, we know jack about it. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
@@ -41,10 +41,10 @@ I tried emailing RTE themselves.
 Didn’t go so well. But I also tried to contact these other guys.
 
 Dominic Moore
-(image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as the Bashur Bacon dude. He also seemed to just totally get wiped off the face of the Earth two years ago. So that sucks.
+(image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as the Bashur Bacon dude. [3] He also seemed to just totally get wiped off the face of the Earth two years ago. So that sucks.
 
 Karen Davitt
-(image) She works at this theatre company as a tutor, so that’s nice.
+(image) She works at this theatre company as a tutor, so that’s nice. [?]
 
 Claudia Carroll
 (image) (Summarize)
@@ -61,7 +61,7 @@ So this guy’s the director there’s gotta be some information on-(insert gif 
 
    Were you not reading you knobhead, I just said it was lost. Even the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
 
-   Am I optimistic about us uncovering all 65 episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Gravity Falls proves a show like this can work, Over the Garden Wall proves horror-dramas can work for kids. Frankly this more mature and complex era of children's television is just begging for a revival of this. Wink wink nudge nudge RT-aaand no one at RTE’s watching this. Well, on the off chance someone at RTE is and thinking about a reboot, maybe have it not look like 
+   Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Gravity Falls proves a show like this can work, Over the Garden Wall proves horror-dramas can work for kids. Frankly this more mature and complex era of children's television is just begging for a revival of this. Wink wink nudge nudge RT-aaand no one at RTE’s watching this. Well, on the off chance someone at RTE is and thinking about a reboot, maybe have it not look like 
 
 
 ### Why?
