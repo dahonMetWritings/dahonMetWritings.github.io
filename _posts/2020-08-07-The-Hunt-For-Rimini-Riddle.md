@@ -8,7 +8,7 @@ published: false
 ## What Are You Looking At?
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… 
 
-<iframe width="879" height="659" src="https://www.youtube.com/embed/aj83EfAuAos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![rrwhatdat.jpg]({{site.baseurl}}/images/rrwhatdat.jpg)
 
 That. Okay there’s more to it than that. Kinda. 
 
