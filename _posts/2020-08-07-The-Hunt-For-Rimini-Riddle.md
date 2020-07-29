@@ -10,7 +10,7 @@ You may have heard the name “Rimini Riddle” around the internet here and the
 
 <iframe width="879" height="659" src="https://www.youtube.com/embed/aj83EfAuAos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- That. Okay there’s more to it than that. Kinda. 
+That. Okay there’s more to it than that. Kinda. 
 
 
 The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. [7]
