@@ -17,10 +17,13 @@ The premise of the show is basically Gravity Falls but everyone looks like the c
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
-The little shits you see on your screen 
+The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
+
+(insert logo here)
 
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard? And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
+(comic)
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
@@ -34,7 +37,9 @@ Didn’t go so well. But I also tried to contact these other guys.
 
 **Dominic Moore**
 
-(image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in early 2020. 
+(image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
+
+Wait is Bashur Bacon a masturbation joke?
 
 **Karen Davitt**
 
@@ -73,7 +78,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
    One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Hell, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
 
-   At first, I was gonna rant about how bad these designs were because these mofos are butt-ugly. But then I realized, maybe this is intentional. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
+   You're probably wondering how the hell could the guys at Noel Lambert[13] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
 
 (insert comic here commenting on the CalArts style)
 
@@ -116,5 +121,7 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 11. [Karen Davitt's page](https://www.16thstreet.com.au/tutors/karen-davitt/)
 
 12. [RTE's photo archives](https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82)
+
+13. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
 
 (post-sources comic about whatever the hell Rimini Riddle - The Angelica File was)
