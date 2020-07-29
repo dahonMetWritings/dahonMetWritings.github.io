@@ -31,19 +31,24 @@ I tried emailing RTE themselves.
 Didn’t go so well. But I also tried to contact these other guys.
 
 **Dominic Moore**
+
 (image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in early 2020. 
 
 **Karen Davitt**
+
 (image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [12]
 
 **Claudia Carroll**
-(image) (Summarize)
+
+(image)
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting.
 
 **Brendan O’ Connor**
+
 He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
 **David McKenna**
+
 So this guy’s the director [?] there’s gotta be some information on-(insert gif here)
 
 ### Where's It Now?
