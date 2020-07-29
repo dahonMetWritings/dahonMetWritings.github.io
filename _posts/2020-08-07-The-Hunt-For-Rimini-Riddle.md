@@ -11,13 +11,15 @@ You may have heard the name “Rimini Riddle” around the internet here and the
 That. Okay there’s more to it than that. Kinda. 
 
 
-The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
+The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
     
 (every mentioned character needs an accompanying image)
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
-So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard?
+The little shits you see on your screen 
+
+So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard? And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
@@ -36,20 +38,24 @@ Didn’t go so well. But I also tried to contact these other guys.
 
 **Karen Davitt**
 
-(image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [12]
+(image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [11]
 
 **Claudia Carroll**
 
 (image)
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting.
 
+**Mary Elizabeth Burke-Kennedy, Marie Hennigan**
+
+Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy & Marie Hennigan[12] also wrote for Rimini Riddle. And that’s about all she wrote.
+
 **Brendan O’ Connor**
 
 He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
-**David McKenna**
+**Terry McDevlin & David McKenna**
 
-So this guy’s the director [?] there’s gotta be some information on-(insert gif here)
+So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
 
 ### Where's It Now?
    Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
@@ -79,6 +85,10 @@ Kinda like the world of lost media itself.
 
 (end on gif of the Conger Sisters)
 
+### For real tho that stage play
+
+Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the fuckin' Rugrats or some shit?
+
 ## How'd I Get this Info
 
 1. [Claudia Carroll's essay](https://web.archive.org/web/20171205194055/http://www.rte.ie/tv50/essays/claudiacarroll.html)
@@ -93,7 +103,9 @@ Kinda like the world of lost media itself.
 
 6. [Irish Times' review of the show](https://www.irishtimes.com/culture/rimini-riddle-1.38878)
 
-7. [One of the original Rimini Riddle Threads](https://www.boards.ie/b/thread/2055385106)
+7. [One of the original Rimini Riddle Threads](https://www.boards.ie/vbulletin/showthread.php?t=2054910249&page=2)
+
+8. [Another Thread](https://www.boards.ie/vbulletin/showthread.php?t=2055385106)
 
 8. [Independent.ie's article on Brendan O'Connor](https://www.independent.ie/ca/entertainment/television/still-goading-himself-with-a-very-sharp-stick-brendan-oconnor-is-back-on-our-screens-34712775.html)
 
@@ -101,8 +113,8 @@ Kinda like the world of lost media itself.
 
 10. [Unshaved mouse's post](https://unshavedmouse.com/2018/03/22/rimini-riddle-like-someone-figured-out-how-to-film-a-nightmare/)
 
-11. [How I learned to embed the YT link](https://help.planmill.com/help/documentation-guide/)
+11. [Karen Davitt's page](https://www.16thstreet.com.au/tutors/karen-davitt/)
 
-12. [Karen Davitt's page](https://www.16thstreet.com.au/tutors/karen-davitt/)
+12. [RTE's photo archives](https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82)
 
-(post-sources comic)
+(post-sources comic about whatever the hell Rimini Riddle - The Angelica File was)
