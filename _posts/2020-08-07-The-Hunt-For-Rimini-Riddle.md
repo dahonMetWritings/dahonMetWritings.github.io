@@ -30,20 +30,20 @@ I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys.
 
-Dominic Moore
+**Dominic Moore**
 (image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in early 2020. 
 
-Karen Davitt
-(image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [?]
+**Karen Davitt**
+(image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [12]
 
-Claudia Carroll
+**Claudia Carroll**
 (image) (Summarize)
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting.
 
-Brendan O’ Connor
+**Brendan O’ Connor**
 He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
-David McKenna
+**David McKenna**
 So this guy’s the director [?] there’s gotta be some information on-(insert gif here)
 
 ### Where's It Now?
@@ -97,5 +97,7 @@ Kinda like the world of lost media itself.
 10. [Unshaved mouse's post](https://unshavedmouse.com/2018/03/22/rimini-riddle-like-someone-figured-out-how-to-film-a-nightmare/)
 
 11. [How I learned to embed the YT link](https://help.planmill.com/help/documentation-guide/)
+
+12. [Karen Davitt's page](https://www.16thstreet.com.au/tutors/karen-davitt/)
 
 (post-sources comic)
