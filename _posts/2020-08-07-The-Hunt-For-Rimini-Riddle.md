@@ -37,7 +37,8 @@ Didn’t go so well. But I also tried to contact these other guys.
 
 **Dominic Moore**
 
-(image)	This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
+![Dominic-Moore.jpg]({{site.baseurl}}/_posts/Dominic-Moore.jpg)
+This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
 
 Wait is Bashur Bacon a masturbation joke?
 
