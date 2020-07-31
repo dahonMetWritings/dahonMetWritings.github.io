@@ -11,19 +11,20 @@ You may have heard the name “Rimini Riddle” around the internet here and the
 That. Okay there’s more to it than that. Kinda. 
 
 
-The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon. Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
+The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
     
 (every mentioned character needs an accompanying image)
+
+(comic goes here)
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
 The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
 
-(insert logo here)
+![nltptlogo.jfif]({{site.baseurl}}/_posts/nltptlogo.jfif)
 
-So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] Why is Otto a bastard? And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
-(comic)
+So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
@@ -89,7 +90,6 @@ If this show’s backstory and people’s accounts of it are true, this isn’t 
 
 Kinda like the world of lost media itself.
 
-(end on gif of the Conger Sisters)
 
 ### For real tho that stage play
 
@@ -109,9 +109,9 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 6. [Irish Times' review of the show](https://www.irishtimes.com/culture/rimini-riddle-1.38878)
 
-7. [One of the original Rimini Riddle Threads](https://www.boards.ie/vbulletin/showthread.php?t=2054910249&page=2)
+7. [One of the original Rimini Riddle Threads on boards.ie](https://www.boards.ie/vbulletin/showthread.php?t=2054910249&page=2)
 
-8. [Another Thread](https://www.boards.ie/vbulletin/showthread.php?t=2055385106)
+8. [Another Thread on boards.ie](https://www.boards.ie/vbulletin/showthread.php?t=2055385106)
 
 8. [Independent.ie's article on Brendan O'Connor](https://www.independent.ie/ca/entertainment/television/still-goading-himself-with-a-very-sharp-stick-brendan-oconnor-is-back-on-our-screens-34712775.html)
 
