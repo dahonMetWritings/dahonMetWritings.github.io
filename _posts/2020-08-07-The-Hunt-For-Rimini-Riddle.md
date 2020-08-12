@@ -23,7 +23,6 @@ The little shits you see on your screen were made by the Noel Lambert Touring Pu
 
 ![nltptlogo.jfif]({{site.baseurl}}/_posts/nltptlogo.jfif)
 
-
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
@@ -67,7 +66,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 ### Where's It Now?
    Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
 
-(image of Cock Man)
+![rrclockman.jpg]({{site.baseurl}}/_posts/rrclockman.jpg)
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
