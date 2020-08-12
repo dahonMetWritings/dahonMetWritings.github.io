@@ -15,7 +15,7 @@ The premise of the show is basically Gravity Falls but everyone looks like the c
     
 (every mentioned character needs an accompanying image)
 
-(comic goes here)
+![rrvenomcomic.png]({{site.baseurl}}/_posts/rrvenomcomic.png)
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
