@@ -21,7 +21,7 @@ As far as non-diegetic stuff goes, the show was aired on the network, RTE, and p
 
 The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
 
-![nltptlogo.jfif]({{site.baseurl}}/_posts/nltptlogo.jfif)
+![noellambertlogo.jpg]({{site.baseurl}}/_posts/noellambertlogo.jpg)
 
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
@@ -38,6 +38,7 @@ Didn’t go so well. But I also tried to contact these other guys. To equal succ
 ![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)[12.2]
 
 **Dominic Moore**
+
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
 
 Wait is Bashur Bacon a masturbation joke?
@@ -59,7 +60,7 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 **Brendan O’ Connor**
 ![brendanandgeoffery.jpg]({{site.baseurl}}/_posts/brendanandgeoffery.jpg)
 
-He played Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
+He played the aeforementioned melted candle, Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
 **Terry McDevlin & David McKenna**
 
@@ -72,9 +73,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
-(turn this section into a comic) Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
-
-(insert image here)
+Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
 
 ### Why?
    The real people who worked on this show aren’t the only mysteries. The puppets and why they're currently chilling with your sleep paralysis demons are pretty mysterious too.
@@ -82,8 +81,6 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
    One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Hell, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
 
    You're probably wondering how the hell could the guys at Noel Lambert[13] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
-
-(insert comic here commenting on the CalArts style)
 
 This is because Gravity Falls is meant to be a fun kids show. Yes it gets hella dark, but the fact it starts out as a simple, albeit really funny and often heartwarming kids adventure makes the darker moments so much more entertaining. 
 
