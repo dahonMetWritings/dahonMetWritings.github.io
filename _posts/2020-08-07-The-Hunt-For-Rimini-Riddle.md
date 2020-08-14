@@ -54,10 +54,10 @@ Her memoir says she was working on the show before working on another show calle
 
 ![lizandmarie.jpg]({{site.baseurl}}/_posts/lizandmarie.jpg)
 
-Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy & Marie Hennigan[12] also wrote for Rimini Riddle. And that’s about all she wrote.
+Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
 
 **Brendan O’ Connor**
-
+![brendanandgeoffery.jpg]({{site.baseurl}}/_posts/brendanandgeoffery.jpg)
 
 He played Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
