@@ -51,13 +51,15 @@ Wait is Bashur Bacon a masturbation joke?
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
 
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
+
 ![lizandmarie.jpg]({{site.baseurl}}/_posts/lizandmarie.jpg)
 
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy & Marie Hennigan[12] also wrote for Rimini Riddle. And that’s about all she wrote.
 
 **Brendan O’ Connor**
 
-He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
+
+He played Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
 **Terry McDevlin & David McKenna**
 
