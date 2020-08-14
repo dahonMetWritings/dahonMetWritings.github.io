@@ -29,9 +29,7 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
 
 ### Who's Responsible? Note - Get more info on what these cats actually did holy shit
 
-I tried emailing RTE themselves. 
-
-(comic)
+I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
 
