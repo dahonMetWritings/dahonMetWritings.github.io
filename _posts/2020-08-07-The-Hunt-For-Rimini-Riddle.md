@@ -35,22 +35,18 @@ I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
 
-![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)test
+![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)[12.2]
 
 **Dominic Moore**
-
-![Dominic-Moore.jpg]({{site.baseurl}}/_posts/Dominic-Moore.jpg)
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
 
 Wait is Bashur Bacon a masturbation joke?
 
 **Karen Davitt**
-
-(image) She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [11]
+ She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [11]
 
 **Claudia Carroll**
 
-(image)
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
 
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
@@ -61,8 +57,6 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 **Brendan O’ Connor**
 
 He played Geoffrey. You know, this guy (cut to pic of Geoffrey). Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
-
-
 
 **Terry McDevlin & David McKenna**
 
@@ -127,6 +121,7 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 12. [RTE's photo archives](https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82)
   12.1 [Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
+  12.2 [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
 13. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
 
