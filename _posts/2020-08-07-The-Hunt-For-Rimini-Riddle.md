@@ -60,9 +60,16 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 
 He played the aeforementioned melted candle, Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
+
+**Puppeteers**
+
+
+
+
 **Terry McDevlin & David McKenna**
 
 So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
+
 
 ### Where's It Now?
    Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
