@@ -34,12 +34,18 @@ I tried emailing RTE themselves.
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
 
 ![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)[12.2]
+*note - Tara Flynn 
 
 **Dominic Moore**
 
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
 
 Wait is Bashur Bacon a masturbation joke?
+
+
+**Tara Flynn**
+
+She played the child in the family photo, Leo. And that's all she wrote. No relation to Phineas Flynn.
 
 
 **Claudia Carroll**
@@ -59,13 +65,18 @@ He played the aeforementioned melted candle, Geoffrey. Going off [this clip](htt
 
 **Ann Callahan, Robert Byrne, Karen Davitt**
 
-All three of these guys, identified in the photo above, were puppeteers for this show. Ann played, Robert played, and Davitt played
+All three of these guys, identified in the photo above, were puppeteers for this show.
 
 And these guys got their own section because that's all she wrote.
 
 **Noel Lambert**
 
-This guy gets his own section, 'cause he was narcissistic enough to name the puppeteering company after himself.
+This guy gets his own section, 'cause he was narcissistic enough to name the puppeteering company after himself. Or so it seemed.
+
+The Lambert family's got a whole legacy of puppetry, dating back to 1975. His Dad, Eugene, first started making puppets in his youth, before he made it a full-time gig. 
+Noel wasn't the only kid he had. The Lambert kids include 5 others sons, Stephen, Liam, David, Conor, and Johnathan, and 2 daughters, Miriam, and Paula.[14]
+
+
 
 **Terry McDevlin & David McKenna**
 
@@ -132,5 +143,7 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
   12.2 [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
 13. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
+
+14. [Bit of History on the Lambert Family](https://www.rte.ie/archives/2015/1221/755415-the-lambert-family/)
 
 (post-sources comic about whatever the hell Rimini Riddle - The Angelica File was)
