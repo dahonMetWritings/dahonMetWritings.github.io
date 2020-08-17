@@ -41,9 +41,6 @@ This guy seemed to be pretty important to this show. I’m guessing he’s the c
 
 Wait is Bashur Bacon a masturbation joke?
 
-**Karen Davitt**
-
- She works at this theatre company as a tutor, so that’s nice. And that's all she wrote. [11]
 
 **Claudia Carroll**
 
@@ -60,11 +57,15 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 
 He played the aeforementioned melted candle, Geoffrey. Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
+**Ann Callahan, Robert Byrne, Karen Davitt**
 
-**Puppeteers**
+All three of these guys, identified in the photo above, were puppeteers for this show. Ann played, Robert played, and Davitt played
 
+And these guys got their own section because that's all she wrote.
 
+**Noel Lambert**
 
+This guy gets his own section, 'cause he was narcissistic enough to name the puppeteering company after himself.
 
 **Terry McDevlin & David McKenna**
 
