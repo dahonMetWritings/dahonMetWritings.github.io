@@ -76,7 +76,10 @@ This guy gets his own section, 'cause he was narcissistic enough to name the pup
 The Lambert family's got a whole legacy of puppetry, dating back to 1975. His Dad, Eugene, first started making puppets in his youth, before he made it a full-time gig. 
 Noel wasn't the only kid he had. The Lambert kids include 5 others sons, Stephen, Liam, David, Conor, and Johnathan, and 2 daughters, Miriam, and Paula.[14]
 
+If their Facebook is any indication [13.1], they haven't done much in 2 years, sadly. And the website looks like this: 
+(screencap)[15]
 
+As for Noel Lambert himself, fuck if I know what he's doin' now.
 
 **Terry McDevlin & David McKenna**
 
@@ -88,7 +91,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
 ![rrclockman.jpg]({{site.baseurl}}/_posts/rrclockman.jpg)
 
-   Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
+   Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
 Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
 
@@ -138,12 +141,16 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 12. [RTE's photo archives](https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82)
 
-  12.1 [Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
+  12.1. [Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
-  12.2 [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
+  12.2. [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
 13. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
 
+  13.1. [Noel Lambert Touring Theatre's Facebook](https://www.facebook.com/Noel-Lambert-Touring-Puppet-Theatre-125108057560601/)  
+
 14. [Bit of History on the Lambert Family](https://www.rte.ie/archives/2015/1221/755415-the-lambert-family/)
+
+15. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
 
 (post-sources comic about whatever the hell Rimini Riddle - The Angelica File was)
