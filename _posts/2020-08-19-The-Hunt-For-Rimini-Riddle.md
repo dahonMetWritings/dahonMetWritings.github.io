@@ -12,7 +12,7 @@ That. Okay there’s more to it than that. Kinda.
 
 The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
     
-![rrOthers.png]({{site.baseurl}}/_posts/rrOthers.png)
+![GodDamnPuppets2.jpg]({{site.baseurl}}/_posts/GodDamnPuppets2.jpg)
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
@@ -56,6 +56,7 @@ Her memoir says she was working on the show before working on another show calle
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
 
 **Brendan O’ Connor**
+
 ![brendanandgeoffery.jpg]({{site.baseurl}}/_posts/brendanandgeoffery.jpg)
 
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
@@ -73,8 +74,7 @@ This guy gets his own section, 'cause he was narcissistic enough to name the pup
 The Lambert family's got a whole legacy of puppetry, dating back to 1975. His Dad, Eugene, first started making puppets in his youth, before he made it a full-time gig. 
 Noel wasn't the only kid he had. The Lambert kids include 5 others sons, Stephen, Liam, David, Conor, and Johnathan, and 2 daughters, Miriam, and Paula.[14]
 
-If their Facebook is any indication [13.1], they haven't done much in 2 years, sadly. And the website looks like this: 
-(screencap)[15]
+If their Facebook is any indication [13.1], they haven't done much in 2 years, sadly. And their website seems to be nuked. [15]
 
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
@@ -86,7 +86,8 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 ### Where's It Now?
    Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
 
-![rrclockman.jpg]({{site.baseurl}}/_posts/rrclockman.jpg)
+![Basically, this was some lost bit of animation that spooked someone as a kid. It took like, 10 years to find. Pinwheel was the show they played it on.]({{site.baseurl}}/_posts/rrclockman.jpg)
+
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
