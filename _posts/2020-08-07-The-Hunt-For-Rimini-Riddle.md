@@ -31,8 +31,7 @@ I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
 
-![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)[12.2]
-*note - Tara Flynn 
+![039_b6381564d9f97a14a70b9fbd174828ae7b5f5455.png]({{site.baseurl}}/_posts/039_b6381564d9f97a14a70b9fbd174828ae7b5f5455.png)
 
 **Dominic Moore**
 
