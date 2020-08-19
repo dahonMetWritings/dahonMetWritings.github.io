@@ -59,6 +59,7 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 
 ![brendanandgeoffery.jpg]({{site.baseurl}}/_posts/brendanandgeoffery.jpg)
 
+
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
 **Ann Callahan, Robert Byrne, Karen Davitt**
