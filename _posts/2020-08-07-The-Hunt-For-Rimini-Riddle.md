@@ -6,7 +6,8 @@ published: false
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
 ## What Are You Looking At?
-You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ![rrwhatdat.jpg]({{site.baseurl}}/images/rrwhatdat.jpg)
+You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ![GodDamnPuppets.png]({{site.baseurl}}/_posts/GodDamnPuppets.png)
+
 
 That. Okay there’s more to it than that. Kinda. 
 
@@ -14,6 +15,8 @@ That. Okay there’s more to it than that. Kinda.
 The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
     
 (every mentioned character needs an accompanying image)
+
+
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
@@ -31,7 +34,8 @@ I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
 
-![039_b6381564d9f97a14a70b9fbd174828ae7b5f5455.png]({{site.baseurl}}/_posts/039_b6381564d9f97a14a70b9fbd174828ae7b5f5455.png)
+![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)
+
 
 **Dominic Moore**
 
