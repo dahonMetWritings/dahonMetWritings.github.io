@@ -15,8 +15,6 @@ The premise of the show is basically Gravity Falls but everyone looks like the c
     
 (every mentioned character needs an accompanying image)
 
-![rrvenomcomic.png]({{site.baseurl}}/_posts/rrvenomcomic.png)
-
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
 The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
@@ -153,4 +151,4 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 15. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
 
-(post-sources comic about whatever the hell Rimini Riddle - The Angelica File was)
+!["Destroying all of humanity, amirite?"]({{site.baseurl}}/_posts/rrvenomcomic.png)![rrvenomcomic.png]({{site.baseurl}}/_posts/rrvenomcomic.png)
