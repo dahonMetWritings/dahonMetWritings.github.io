@@ -88,7 +88,6 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
 ![Basically, this was some lost bit of animation that spooked someone as a kid. It took like, 10 years to find. Pinwheel was the show they played it on.]({{site.baseurl}}/_posts/rrclockman.jpg)
 
-
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
 Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
