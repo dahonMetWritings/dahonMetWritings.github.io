@@ -6,21 +6,18 @@ published: true
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
 ## What Are You Looking At?
-You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ![GodDamnPuppets.png]({{site.baseurl}}/_posts/GodDamnPuppets.png)
+You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… !
 
 That. Okay there’s more to it than that. Kinda. 
 
 The premise of the show is basically Gravity Falls but everyone looks like the cake after the hooker jumps out of it. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
-    
-![GodDamnPuppets2.jpg]({{site.baseurl}}/_posts/GodDamnPuppets2.jpg)
+
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
 The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
 
-![noellambertlogo.jpg]({{site.baseurl}}/_posts/noellambertlogo.jpg)
 
-<p><img src="noellambertlogo.jpg" alt="test" style="float:right;width:42px;height:42px;">
     
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
@@ -31,8 +28,6 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
 I tried emailing RTE themselves.
 
 Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
-
-![rrcast.png]({{site.baseurl}}/_posts/rrcast.png)
 
 
 **Dominic Moore**
@@ -53,13 +48,12 @@ Her memoir says she was working on the show before working on another show calle
 
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
 
-![lizandmarie.jpg]({{site.baseurl}}/_posts/lizandmarie.jpg)
+
 
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
 
 **Brendan O’ Connor**
 
-![brendanandgeoffery.jpg]({{site.baseurl}}/_posts/brendanandgeoffery.jpg)
 
 
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
@@ -81,21 +75,25 @@ If their Facebook is any indication [13.1], they haven't done much in 2 years, s
 
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
+
 **Terry McDevlin & David McKenna**
 
 So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
 
 
 ### Where's It Now?
+
+
    Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
 
-![Basically, this was some lost bit of animation that spooked someone as a kid. It took like, 10 years to find. Pinwheel was the show they played it on.]({{site.baseurl}}/_posts/rrclockman.jpg)
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
 Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
 
 ### Why?
+
+
    The real people who worked on this show aren’t the only mysteries. The puppets and why they're currently chilling with your sleep paralysis demons are pretty mysterious too.
 
    One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Hell, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
@@ -112,6 +110,7 @@ Kinda like the world of lost media itself.
 ### For real tho that stage play
 
 Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the fuckin' Rugrats or some shit?
+
 
 ## How'd I Get this Info
 
