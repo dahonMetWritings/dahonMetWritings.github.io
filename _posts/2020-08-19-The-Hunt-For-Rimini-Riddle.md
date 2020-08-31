@@ -19,6 +19,7 @@ As far as non-diegetic stuff goes, the show was aired on the network, RTE, and p
 The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
 
 ![noellambertlogo.jpg]({{site.baseurl}}/_posts/noellambertlogo.jpg)
+<p><img src="noellambertlogo.jpg" alt="test" style="float:right;width:42px;height:42px;">
 
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
