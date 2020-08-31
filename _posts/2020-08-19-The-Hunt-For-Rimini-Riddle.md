@@ -20,6 +20,8 @@ The little shits you see on your screen were made by the Noel Lambert Touring Pu
 
 ![noellambertlogo.jpg]({{site.baseurl}}/_posts/noellambertlogo.jpg)
 
+<p><img src="noellambertlogo.jpg" alt="test" style="float:right;width:42px;height:42px;">
+    
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
