@@ -23,7 +23,7 @@ So how does this all add up?  What are the personalities of the three main chara
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
-### Who's Responsible? Note - Get more info on what these cats actually did holy shit
+### Who's Responsible?
 
 I tried emailing RTE themselves.
 
