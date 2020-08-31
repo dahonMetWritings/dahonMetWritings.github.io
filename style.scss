@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  margin: -1 auto;
+  margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -65,7 +65,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 8px 0;
 }
 
 a {
@@ -78,7 +78,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin: 8px 0;
   padding-left: 30px;
 }
 
@@ -253,7 +253,7 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.0em .0em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
