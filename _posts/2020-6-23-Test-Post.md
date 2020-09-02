@@ -12,3 +12,7 @@ test text pepee in the toilet ![_config.yml]({{site.baseurl}}/images/bmoo.png)
 
 
 I hope this shit works [test link]( https://www.youtube.com/watch?v=mEnhfMRLXnc)
+
+**Bold text**
+
+_Italic Text_
