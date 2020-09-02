@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $lightGray;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $"Trebuchet MS";
   color: $black;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $trebuchet;
   color: $darkGray;
   font-weight: bold;
 
@@ -122,7 +122,7 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $darkGreen;
   background: $lightGray;
 }
 ::selection {
@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $black;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $lucidaConsole;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
