@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkerGray;
-  font: 20px/1.4 $helvetica;
+  font: 19.2px/1.4 $trebuchet;
   color: $lightGray;
 }
 
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
