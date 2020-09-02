@@ -3,8 +3,20 @@
 // VARIABLES
 //
 
-// Colors
+// Blues
+$darkBlue: #2f5983;
 $blue: #4183C4;
+$lightBlue: #86c3ff;
+
+// Greens
+$darkGreen: #236b24;
+$green: #41c443;
+$lightGreen: #88fb8a;
+
+// Reds
+$darkRed: #741d1d;
+$red: #c44141;
+$lightRed: #ee7f7f;
 
 // Grays
 $black: #000;
@@ -16,8 +28,11 @@ $white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helveticaNeue: Helvetica Neue, Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$lucida: Lucida Sans Unicode, Lucida Grande, sans-serif;
+$lucidaConsole: Lucida Console, Monaco, monospace;
+$trebuchet: Trebuchet MS, Helvetica, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
