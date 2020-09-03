@@ -22,6 +22,7 @@ test text bum bum poopoo ![_config.yml]({{ site.baseurl }}/images/maxresdefault.
   
 testicle texticles
 
+Note: the width and height should match the original image
 
 I hope this shit works [test link]( https://www.youtube.com/watch?v=mEnhfMRLXnc)
 
