@@ -6,3 +6,9 @@
 
 ![GodDamnPuppets.png]({{site.baseurl}}/images/2020pics/GodDamnPuppets.png)
 
+![noellambertlogo.PNG]({{site.baseurl}}/images/2020pics/noellambertlogo.PNG)
+
+![Dominic-Moore.jpg]({{site.baseurl}}/images/2020pics/Dominic-Moore.jpg)
+
+
+
