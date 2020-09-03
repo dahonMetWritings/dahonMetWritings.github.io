@@ -13,7 +13,7 @@ test text bum bum poopoo ![_config.yml]({{ site.baseurl }}/images/maxresdefault.
    <h1>Float Right</h1>
    <p>The below image floats to the right.</p>
    <p>
-      <img src=https://github.com/dahonMetWritings/dahonMetWritings.github.io/blob/master/images/bmoo.png?raw=true/>
+      <img src=https://github.com/dahonMetWritings/dahonMetWritings.github.io/blob/master/images/bmoo.png/>
       This is demo text. This is demo text.
       This is demo text. This is demo text.
       This is demo text. This is demo text.
