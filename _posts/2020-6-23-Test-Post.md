@@ -9,7 +9,7 @@ Yo this shit working
 test text bum bum poopoo ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
 <p>
-      <img src="https://www.tutorialspoint.com/green/images/logo.png" style="float:right" width="190" height="84" />
+      <img src="https://www.tutorialspoint.com/green/images/logo.png" style="float:right" width="196" height="112" />
       This is demo text. This is demo text.
       This is demo text. This is demo text.
       This is demo text. This is demo text.
