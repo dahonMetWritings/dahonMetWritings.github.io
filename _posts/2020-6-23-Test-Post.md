@@ -9,7 +9,7 @@ Yo this shit working
 test text bum bum poopoo ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
 
-<img align="right" src="doc/subpagelist.png">
+<img align="right" src="bmoo.png">
 
 
 testicle texticles
