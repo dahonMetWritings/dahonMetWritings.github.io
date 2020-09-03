@@ -8,7 +8,7 @@ Yo this shit working
 
 test text bum bum poopoo ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/bmoo.png)
+test text ![_config.yml]({{ site.baseurl }}/images/bmoo.png) test text
 
 I hope this shit works [test link]( https://www.youtube.com/watch?v=mEnhfMRLXnc)
 
