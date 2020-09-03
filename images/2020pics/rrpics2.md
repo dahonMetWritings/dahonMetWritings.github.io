@@ -10,5 +10,4 @@
 
 ![Dominic-Moore.jpg]({{site.baseurl}}/images/2020pics/Dominic-Moore.jpg)
 
-
-
+!["Humanity, amirite?"]({{site.baseurl}}/images/2020pics/rrvenomcomic2.png)
