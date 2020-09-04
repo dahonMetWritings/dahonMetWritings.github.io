@@ -31,7 +31,7 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
     
 I tried emailing RTE themselves. Unfortunatley, they had better things to do than tell some random butthead where a lost baby show is, and they never responded. So I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
     
-    /p>
+    </p>
 
 
 **Dominic Moore**
@@ -42,7 +42,7 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
     
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude, whom you can see in the photo. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
     
-    /p>
+    </p>
 
 
 **Tara Flynn**
@@ -63,7 +63,7 @@ Her memoir says she was working on the show before working on another show calle
     
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
     
-    /p>
+    </p>
 
 
 **Brendan O’ Connor**
@@ -74,7 +74,7 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
     
-    /p>
+    </p>
 
 
 **Ann Callahan, Robert Byrne, Karen Davitt**
