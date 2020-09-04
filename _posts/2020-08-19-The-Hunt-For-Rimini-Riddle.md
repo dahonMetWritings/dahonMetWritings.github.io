@@ -82,6 +82,8 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
 
 ### Where's It Now?
+
+
 <p>
     <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg" style="float:right" width="320" height="180" />
     
