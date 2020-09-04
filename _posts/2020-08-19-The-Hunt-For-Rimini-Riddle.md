@@ -27,7 +27,7 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrcast.png" style="float:right" width="349" height="232" />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrcast.png" style="float:right" margin-right: 15px; width="349" height="232" />
     
 I tried emailing RTE themselves. Unfortunatley, they had better things to do than tell some random butthead where a lost baby show is, and they never responded. So I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
     
