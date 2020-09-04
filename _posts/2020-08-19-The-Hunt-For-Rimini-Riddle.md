@@ -23,18 +23,32 @@ So how does this all add up?  What are the personalities of the three main chara
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
+
+
 ### Who's Responsible?
 
-I tried emailing RTE themselves.
 
-Didn’t go so well. But I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
+<p>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrcast.png" style="float:right" width="384" height="256" />
+    
+I tried emailing RTE themselves. Unfortunatley, they had better things to do than tell some random butthead where a lost baby show is, and they never responded. So I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
+    
+    /p>
+
+
 
 
 **Dominic Moore**
 
-This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
 
-Wait is Bashur Bacon a masturbation joke?
+<p>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/Dominic-Moore.jpg" style="float:left" width="462" height="432" />
+    
+This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude, whom you can see in the photo. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
+    
+    /p>
+
+
 
 
 **Tara Flynn**
@@ -42,27 +56,48 @@ Wait is Bashur Bacon a masturbation joke?
 She played the child in the family photo, Leo. And that's all she wrote. No relation to Phineas Flynn.
 
 
+
+
 **Claudia Carroll**
 
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
 
+
+
+
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
 
 
-
+<p>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" style="float:left" width="384" height="299" />
+    
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
+    
+    /p>
+
+
+
 
 **Brendan O’ Connor**
 
 
-
+<p>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg" style="float:left" width="396" height="229" />
+    
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
+    
+    /p>
+
+
 
 **Ann Callahan, Robert Byrne, Karen Davitt**
 
 All three of these guys, identified in the photo above, were puppeteers for this show.
 
 And these guys got their own section because that's all she wrote.
+
+
+
 
 **Noel Lambert**
 
@@ -76,9 +111,14 @@ If their Facebook is any indication [13.1], they haven't done much in 2 years, s
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
 
+
+
 **Terry McDevlin & David McKenna**
 
 So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
+
+
+
 
 
 ### Where's It Now?
