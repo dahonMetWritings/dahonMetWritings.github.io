@@ -23,7 +23,7 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
 
 
 
-### Who's Responsible?
+## Who's Responsible?
 
 
 <p>
@@ -34,7 +34,7 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
     </p>
 
 
-**Dominic Moore**
+### Dominic Moore
 
 
 <p>
@@ -45,17 +45,17 @@ This guy seemed to be pretty important to this show. I’m guessing he’s the c
     </p>
 
 
-**Tara Flynn**
+### Tara Flynn
 
 She played the child in the family photo, Leo. And that's all she wrote. No relation to Phineas Flynn.
 
 
-**Claudia Carroll**
+### Claudia Carroll
 
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
 
 
-**Mary Elizabeth Burke-Kennedy, Marie Hennigan**
+### Mary Elizabeth Burke-Kennedy, Marie Hennigan
 
 
 <p>
@@ -66,14 +66,14 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
     </p>
 
 
-**Ann Callahan, Robert Byrne, Karen Davitt**
+### Ann Callahan, Robert Byrne, Karen Davitt
 
 All three of these guys, identified in the photo above, were puppeteers for this show.
 
 And these guys got their own section because that's all she wrote.
 
 
-**Noel Lambert**
+### Noel Lambert
 
 This guy gets his own section, 'cause he was narcissistic enough to name the puppeteering company after himself. Or so it seemed.
 
@@ -87,7 +87,7 @@ As for Noel Lambert himself, fuck if I know what he's doin' now.
 
 
 
-**Brendan O’ Connor**
+### Brendan O’ Connor
 
 
 <p>
@@ -99,13 +99,13 @@ And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba du
 
 
 
-**Terry McDevlin & David McKenna**
+### Terry McDevlin & David McKenna
 
 So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
 
 
 
-### Where's It Now?
+## Where's It Now?
 
 
 <p>
@@ -121,7 +121,7 @@ Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off cha
 
 
 
-### Why?
+## Why?
 
 
    The real people who worked on this show aren’t the only mysteries. The puppets and why they're currently chilling with your sleep paralysis demons are pretty mysterious too.
@@ -137,7 +137,7 @@ If this show’s backstory and people’s accounts of it are true, this isn’t 
 Kinda like the world of lost media itself.
 
 
-### For real tho that stage play
+## For real tho that stage play
 
 Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the fuckin' Rugrats or some shit?
 
