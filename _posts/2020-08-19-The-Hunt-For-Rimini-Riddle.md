@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 ---
 ## The Hunt For Rimini Riddle
 
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
 ## What Are You Looking At?
-You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… !
+You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ! 
 
 That. Okay there’s more to it than that. Kinda. 
 
@@ -82,10 +82,10 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 
 
 ### Where's It Now?
-
-
-   Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
-
+<p>
+      <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg style="float:right" width="320" height="180" />
+       Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re        fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a    frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
+    </p>
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
