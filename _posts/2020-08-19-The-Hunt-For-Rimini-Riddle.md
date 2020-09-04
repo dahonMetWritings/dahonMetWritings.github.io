@@ -76,19 +76,6 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
 
 
 
-**Brendan O’ Connor**
-
-
-<p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg" style="float:left" width="198" height="114" />
-    
-And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
-    
-    </p>
-
-
-
-
 **Ann Callahan, Robert Byrne, Karen Davitt**
 
 All three of these guys, identified in the photo above, were puppeteers for this show.
@@ -109,6 +96,18 @@ If their Facebook is any indication [13.1], they haven't done much in 2 years, s
 
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
+
+
+
+**Brendan O’ Connor**
+
+
+<p>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg" style="float:left" width="198" height="114" />
+    
+And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
+    
+    </p>
 
 
 
