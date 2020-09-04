@@ -34,6 +34,8 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
     </p>
 
 
+
+
 **Dominic Moore**
 
 
@@ -45,14 +47,20 @@ This guy seemed to be pretty important to this show. I’m guessing he’s the c
     </p>
 
 
+
+
 **Tara Flynn**
 
 She played the child in the family photo, Leo. And that's all she wrote. No relation to Phineas Flynn.
 
 
+
+
 **Claudia Carroll**
 
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
+
+
 
 
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
@@ -66,6 +74,8 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
     </p>
 
 
+
+
 **Brendan O’ Connor**
 
 
@@ -77,11 +87,15 @@ And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba du
     </p>
 
 
+
+
 **Ann Callahan, Robert Byrne, Karen Davitt**
 
 All three of these guys, identified in the photo above, were puppeteers for this show.
 
 And these guys got their own section because that's all she wrote.
+
+
 
 
 **Noel Lambert**
@@ -94,6 +108,8 @@ Noel wasn't the only kid he had. The Lambert kids include 5 others sons, Stephen
 If their Facebook is any indication [13.1], they haven't done much in 2 years, sadly. And their website seems to be nuked. [15]
 
 As for Noel Lambert himself, fuck if I know what he's doin' now.
+
+
 
 
 **Terry McDevlin & David McKenna**
