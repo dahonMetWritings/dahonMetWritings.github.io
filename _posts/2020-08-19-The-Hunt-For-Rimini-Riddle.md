@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-
-
 ![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
 
 ## What Are You Looking At?
@@ -36,8 +34,6 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
     /p>
 
 
-
-
 **Dominic Moore**
 
 
@@ -49,20 +45,14 @@ This guy seemed to be pretty important to this show. I’m guessing he’s the c
     /p>
 
 
-
-
 **Tara Flynn**
 
 She played the child in the family photo, Leo. And that's all she wrote. No relation to Phineas Flynn.
 
 
-
-
 **Claudia Carroll**
 
 Her memoir says she was working on the show before working on another show called _'My Fair City'_.[1] Unfortunatley the rest of it doesn't say much about the show. However, the description of the YouTube video below claims she played one of the aeforementioned girls from the painting. And the RTE archives say she voiced Aunt Vera.[12.1]
-
-
 
 
 **Mary Elizabeth Burke-Kennedy, Marie Hennigan**
@@ -76,8 +66,6 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
     /p>
 
 
-
-
 **Brendan O’ Connor**
 
 
@@ -89,14 +77,11 @@ And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba du
     /p>
 
 
-
 **Ann Callahan, Robert Byrne, Karen Davitt**
 
 All three of these guys, identified in the photo above, were puppeteers for this show.
 
 And these guys got their own section because that's all she wrote.
-
-
 
 
 **Noel Lambert**
@@ -111,13 +96,9 @@ If their Facebook is any indication [13.1], they haven't done much in 2 years, s
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
 
-
-
 **Terry McDevlin & David McKenna**
 
 So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
-
-
 
 
 
@@ -134,6 +115,8 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
 Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off chance someone at RTE is reading this, and thinking about a reboot, maybe have it not look like 
+
+
 
 ### Why?
 
