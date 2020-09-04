@@ -66,13 +66,6 @@ Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kenne
     </p>
 
 
-### Ann Callahan, Robert Byrne, Karen Davitt
-
-All three of these guys, identified in the photo above, were puppeteers for this show.
-
-And these guys got their own section because that's all she wrote.
-
-
 ### Noel Lambert
 
 This guy gets his own section, 'cause he was narcissistic enough to name the puppeteering company after himself. Or so it seemed.
@@ -85,7 +78,11 @@ If their Facebook is any indication [13.1], they haven't done much in 2 years, s
 As for Noel Lambert himself, fuck if I know what he's doin' now.
 
 
+### Ann Callahan, Robert Byrne, Karen Davitt
 
+All three of these guys, identified in the photo above, were puppeteers for this show.
+
+And these guys got their own section because that's all she wrote.
 
 ### Brendan O’ Connor
 
