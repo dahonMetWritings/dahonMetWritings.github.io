@@ -17,7 +17,7 @@ The little shits you see on your screen were made by the Noel Lambert Touring Pu
 
 
     
-So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times shit all over what looked to be a fucking theatrical adaptation back in the day? [6]
+So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times trash what looked to be a theatrical adaptation back in the day? [6]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
@@ -108,7 +108,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 <p>
     <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg" style="float:right" width="320" height="180" />
     
-   Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the hell Pinwheel is.
+   Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the heck Pinwheel is.
    
     </p>
 
@@ -123,11 +123,11 @@ Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off cha
 
    The real people who worked on this show aren’t the only mysteries. The puppets and why they're currently chilling with your sleep paralysis demons are pretty mysterious too.
 
-   One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Hell, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
+   One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Heck, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
 
-   You're probably wondering how the hell could the guys at Noel Lambert[13] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
+   You're probably wondering how could the guys at Noel Lambert[13] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
 
-This is because Gravity Falls is meant to be a fun kids show. Yes it gets hella dark, but the fact it starts out as a simple, albeit really funny and often heartwarming kids adventure makes the darker moments so much more entertaining. 
+This is because Gravity Falls is meant to be a fun kids show. Yes it gets dark, but the fact it starts out as a simple, albeit really funny and often heartwarming kids adventure makes the darker moments so much more entertaining. 
 
 If this show’s backstory and people’s accounts of it are true, this isn’t meant to be fun in the same way. This show would always be dark, like if Adventure Time was only about the Great Mushroom War, or if Steven Universe was only about the Gem War. You aren’t meant to find the world of Rimini Riddle charmingly quirky like Gravity Falls, or the Land of Ooo, or Steven Universe’s… Universe. You’re meant to find it unsettling. Scary. As strange as it is inviting.
 
@@ -136,7 +136,7 @@ Kinda like the world of lost media itself.
 
 ## For real tho that stage play
 
-Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the fuckin' Rugrats or some shit?
+Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the Rugrats or something?
 
 
 ## How'd I Get this Info
