@@ -40,7 +40,7 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/Dominic-Moore.jpg" style="float:left" width="154" height="144" />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/Dominic-Moore.jpg"  width="154" height="144" align=right/>
     
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude, whom you can see in the photo. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
     
@@ -61,12 +61,10 @@ Her memoir says she was working on the show before working on another show calle
 
 
 <p>
-    
-    
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" style="float:left" width="192" height="149" />
+  
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" width="192" height="149" align=right />
     
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
-    
     
     </p>
 
@@ -93,7 +91,7 @@ And these guys got their own section because that's all she wrote.
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg" style="float:left" width="320" height="180" />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg"  width="320" height="180" align=left />
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
     
@@ -110,12 +108,7 @@ So according to the Irish Times[6] the former directed the stage play which I'm 
 ## Where's It Now?
 
 
-<p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg" style="float:right" width="320" height="180" />
-    
-   Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of people who spent 10 years looking for a frickin’ Pinwheel sketch. Whatever the heck Pinwheel is.
-   
-    </p>
+   Yeah this show's so lost, even most of the people who worked on it are lost. Not that that’s gonna stop us. The cool thing about internet losers is that when they’re fixated on something, it takes them a long-ass while to give up on it, no matter how much of a lost cause it is. Or was in the case of formerly lost media. i.e. not Rimini Riddle.
 
    Am I optimistic about us uncovering all 95[9] episodes of this thing? Nah. What with all the copyright and royalty hoops and hurdles RTE apparently has to jump through. [13] But, I’d be lying if I said I didn’t think it’d be cool. And I’d be lying even harder if I said I wouldn’t love to see a reboot of this thing. Shows like Over the Garden Wall prove horror-dramas can work for kids. Frankly this more mature and complex era of children's television writing is just begging for a revival of this. 
 
