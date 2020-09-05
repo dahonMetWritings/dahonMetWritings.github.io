@@ -6,6 +6,10 @@ published: true
 ## What Are You Looking At?
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ! 
 
+
+#![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
+
+
 That. Okay there’s more to it than that. Kinda. 
 
 The premise of the show is basically Gravity Falls but everyone looks like a smooshed cake. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
@@ -178,4 +182,4 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 19. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
 
 
-![Humanity, amirite?"]({{site.baseurl}}/_posts/rrvenomcomic.png)
+![Humanity, amirite?"]({{site.baseurl}}/images/rrvenomcomic2.png)
