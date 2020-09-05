@@ -99,14 +99,17 @@ And these guys got their own section because that's all she wrote.
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off 
 
+    </p>
 
 <a href=”https://www.youtube.com/watch?v=FCrSTBRkqUY>this link</a> 
 
-
+<p>
+    
 ,courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
     
-    
     </p>
+    
+
 
 
 
