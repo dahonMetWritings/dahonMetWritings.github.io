@@ -12,12 +12,12 @@ rrwhatdat goes here
 
 That. Okay there’s more to it than that. Kinda. 
 
-The premise of the show is basically Gravity Falls but everyone looks like a smooshed cake. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery shit the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
+The premise of the show is basically Gravity Falls but everyone looks like a smooshed cake. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery things the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
 
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
-The little shits you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
+The little monsters you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
 
 
     
@@ -68,7 +68,7 @@ Her memoir says she was working on the show before working on another show calle
   
     <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" width="192" height="149" align=right />
     
-Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
+Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) and Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
     
     </p>
 
@@ -82,7 +82,7 @@ Noel wasn't the only kid he had. The Lambert kids include 5 others sons, Stephen
 
 If their Facebook is any indication [13.1], they haven't done much in 2 years, sadly. And their website seems to be nuked. [15]
 
-As for Noel Lambert himself, fuck if I know what he's doin' now.
+As for Noel Lambert himself, heck if I know what he's doin' now.
 
 
 ### Ann Callahan, Robert Byrne, Karen Davitt
@@ -138,7 +138,7 @@ Kinda like the world of lost media itself.
 
 ## For real tho that stage play
 
-Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already ugly as fuck, so what the hell did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what the hell, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the Rugrats or something?
+Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already mad ugly, so what did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what , we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the Rugrats or something?
 
 
 ## How'd I Get this Info
