@@ -100,8 +100,8 @@ And these guys got their own section because that's all she wrote.
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off 
 
     </p>
-
-<a href=”https://www.youtube.com/watch?v=FCrSTBRkqUY>this link</a> 
+    
+<a href="https://www.youtube.com/watch?v=FCrSTBRkqUY">this video</a>
 
 <p>
     
