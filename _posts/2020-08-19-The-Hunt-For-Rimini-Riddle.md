@@ -27,7 +27,7 @@ Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s l
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrcast.png" width="349" height="232" align=right/>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrcast.png" width="349" height="232" margin:15px; align=right/>
     
     
 I tried emailing RTE themselves. Unfortunatley, they had better things to do than tell some random butthead where a lost baby show is, and they never responded. So I also tried to contact these other guys. To equal success. So I guess finding information on them is good enough and totally not weird and creepy.
@@ -40,7 +40,7 @@ I tried emailing RTE themselves. Unfortunatley, they had better things to do tha
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/Dominic-Moore.jpg"  width="154" height="144" align=right/>
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/Dominic-Moore.jpg"  width="154" height="144" margin:15px; align=right/>
     
 This guy seemed to be pretty important to this show. I’m guessing he’s the creator. He’s done more than Rimini Riddle, such as this Bashur Bacon dude, whom you can see in the photo. [3] He also seemed to wipe himself off the face of the Earth until sometime in late 2019. He's still doing puppetry, so good for him. 
     
@@ -62,7 +62,7 @@ Her memoir says she was working on the show before working on another show calle
 
 <p>
   
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" width="192" height="149" align=right />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" width="192" height="149" margin:15px; align=right />
     
 Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) & Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
     
@@ -91,7 +91,7 @@ And these guys got their own section because that's all she wrote.
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg"  width="320" height="180" align=left />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg"  width="320" height="180" margin:15px; align=left />
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Going off [this clip](https://www.youtube.com/watch?v=FCrSTBRkqUY), courtesy of Johnny Feen, at least. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
     
