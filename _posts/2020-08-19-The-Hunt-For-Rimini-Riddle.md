@@ -185,4 +185,5 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 15. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
 
-!["Destroying all of humanity, amirite?"]({{site.baseurl}}/_posts/rrvenomcomic.png)
+
+![Humanity, amirite?"]({{site.baseurl}}/_posts/rrvenomcomic.png)
