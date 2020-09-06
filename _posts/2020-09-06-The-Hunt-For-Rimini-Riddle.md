@@ -95,7 +95,7 @@ And these guys got their own section because that's all she wrote.
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg"  width="396" height="229" align=left />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg"  width="198" height="114" align=left />
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Well, according to <a href="https://www.youtube.com/watch?v=FCrSTBRkqUY">this video</a>, courtesy of Johnny Feen. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
