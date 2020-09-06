@@ -95,7 +95,7 @@ And these guys got their own section because that's all she wrote.
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrclockman.jpg"  width="320" height="180" align=left />
+    <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/brendanandgeoffery.jpg"  width="396" height="229" align=left />
     
 And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba dum tsh) Well, according to <a href="https://www.youtube.com/watch?v=FCrSTBRkqUY">this video</a>, courtesy of Johnny Feen. Dude was a one hit wonder, a comedian, writer, and probably did some other stuff Wikipedia didn’t mention.
 
@@ -168,17 +168,17 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 12. [RTE's photo archives](https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82)
 
-13. [Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
+12.1. [Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
-14. [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
+12.2. [Cast picture](https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft)
 
-15. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
+13. [The Facebook Group](https://www.facebook.com/groups/182674470295/)
 
-16. [Noel Lambert Touring Theatre's Facebook](https://www.facebook.com/Noel-Lambert-Touring-Puppet-Theatre-125108057560601/)  
+13.1. [Noel Lambert Touring Theatre's Facebook](https://www.facebook.com/Noel-Lambert-Touring-Puppet-Theatre-125108057560601/)  
 
-17. [Bit of History on the Lambert Family](https://www.rte.ie/archives/2015/1221/755415-the-lambert-family/)
+14. [Bit of History on the Lambert Family](https://www.rte.ie/archives/2015/1221/755415-the-lambert-family/)
 
-19. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
+15. [Noel Lambert Touring Theatre thing](http://www.noellambertpuppettheatre.com/)
 
 
 !["Humanity, amirite?"]({{site.baseurl}}/images/2020pics/rrvenomcomic2.png)
