@@ -161,7 +161,7 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 5. <a href="https://www.irishtimes.com/culture/rimini-riddle-1.38878">Irish Times' review of the stage play</a>
 
 
-6. <a https://www.boards.ie/vbulletin/showthread.php?t=2054910249&page=2">One of the original Rimini Riddle Threads on boards.ie</a>
+6. <a href="https://www.boards.ie/vbulletin/showthread.php?t=2054910249&page=2">One of the original Rimini Riddle Threads on boards.ie</a>
 
 
 7. <a href="https://www.boards.ie/vbulletin/showthread.php?t=2055385106">Another Thread on boards.ie</a>
