@@ -198,4 +198,4 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 15. <a href="http://www.noellambertpuppettheatre.com/">And finally, their website</a>
 
 
-!["Humanity, amirite?"]({{site.baseurl}}/images/2020pics/rrvenomcomic2.png)
+![Humanity, amirite?]({{site.baseurl}}/images/2020pics/rrvenomcomic2.png)
