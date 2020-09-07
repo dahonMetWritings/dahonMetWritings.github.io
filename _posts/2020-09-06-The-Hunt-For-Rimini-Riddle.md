@@ -7,7 +7,7 @@ published: true
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ! 
 
 
-rrwhatdat goes here
+![_config.yml]({{site.baseurl}}/images/2020pics/rrwhatdat.png)
 test text
 
 That. Okay there’s more to it than that. Kinda. 
@@ -17,9 +17,9 @@ The premise of the show is basically Gravity Falls but everyone looks like a smo
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/noellambertlogo.PNG"  width="333" height="151" align=right />
+
 The little monsters you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
-
-
     
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times trash what looked to be a theatrical adaptation back in the day? [6]
 
