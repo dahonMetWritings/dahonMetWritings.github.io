@@ -19,11 +19,11 @@ The premise of the show is basically Gravity Falls but everyone looks like a smo
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
-The little monsters you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
+The little monsters you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these poor sacks. Although they're clearly making better stuff now, so good for them. [13.1]
 
 <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/noellambertlogo.PNG"  width="333" height="151" align=left />
 
-So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times trash what looked to be a theatrical adaptation back in the day? [6]
+So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times trash what looked to be a theatrical adaptation back in the day? [5]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
 
@@ -70,7 +70,7 @@ Her memoir says she was working on the show before working on another show calle
   
     <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/lizandmarie.jpg" width="192" height="149" align=right />
     
-Speaking of Fair City alumni [?], two of its writers; Mary Elizabeth Burke-Kennedy (left) and Marie Hennigan (right) [12] also wrote for Rimini Riddle. And that’s about all she wrote.
+Mary Elizabeth Burke-Kennedy (left) and Marie Hennigan (right) wrote for Rimini Riddle. And that’s about all she wrote. [12.1]
     
     </p>
 
@@ -106,7 +106,7 @@ And here's the half-melted candle. And Geoffery, the puppet he portrayed. (ba du
 
 ### Terry McDevlin & David McKenna
 
-So according to the Irish Times[6] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
+So according to the Irish Times[5] the former directed the stage play which I'm still confused about. And the latter directed and produced the show itself [7]. Say it with me now; that's all she wrote. 
 
 
 
@@ -128,7 +128,7 @@ Wink wink nudge nudge RT-aaand no one at RTE’s read this. Well, on the off cha
 
    One of the first concepts that should come to your mind when looking at this show is the ‘Uncanny Valley’. Heck, just how uncanny the puppets look is really the only thing people who’ve seen this show can take away from it.
 
-   You're probably wondering how could the guys at Noel Lambert[13] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
+   You're probably wondering how could the guys at Noel Lambert[13.1] make puppets that look like this? I mean, we had the Muppets, and Sesame Street, and a bunch of other shows you're not old enough to remember. Trust me, I was wondering that too. But then I realized, maybe this is intentional. Maybe the puppet makers were more in-tune with this show than you thought. This is a dramatic horror, with little-to-no light hearted story beats. Compare this show’s “art style” with what’s probably it's modern day counterpart, Gravity Falls. Gravity Falls, while often really dark and scary for young audiences has a fairly cute and cartoony art style. 
 
 This is because Gravity Falls is meant to be a fun kids show. Yes it gets dark, but the fact it starts out as a simple, albeit really funny and often heartwarming kids adventure makes the darker moments so much more entertaining. 
 
@@ -139,7 +139,7 @@ Kinda like the world of lost media itself.
 
 ## For real tho that stage play
 
-Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already mad ugly, so what did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what , we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the Rugrats or something?
+Aight, so we got this thing produced by Cork Opera House and the Belltable Arts Centre of Limerick. And this show's already mad ugly, so what did this thing look like up-close and in real life? On top of that, this Mary Leland cat said it sucked. So what, we got lost media on top of lost media. And why was it called the Angelica File? Was this some detective-themed crossover with the Rugrats or something?
 
 
 ## How'd I Get this Info
