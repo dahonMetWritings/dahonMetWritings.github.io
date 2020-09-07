@@ -6,7 +6,7 @@ published: true
 ## What Are You Looking At?
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ! 
 
-![_config.yml]({{site.baseurl}}/images/2020pics/rrwhatdat.png)
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrwhatdat.jpg"  width="300" height="225" />
 
 That. Okay there’s more to it than that. Kinda. 
 
