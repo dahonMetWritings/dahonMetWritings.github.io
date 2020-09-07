@@ -15,7 +15,7 @@ The premise of the show is basically Gravity Falls but everyone looks like a smo
 <img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/GodDamnPuppets.png" width="384" height="256" align=right/>
 
 
-<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrOthers.png"  width="236" height="108" align=left />
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/rrOthers.png"  width="315" height="145" align=left />
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
