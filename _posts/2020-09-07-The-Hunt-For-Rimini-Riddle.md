@@ -144,8 +144,6 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 
 ## How'd I Get this Info
 
-<p>
-
 1. <a href="https://web.archive.org/web/20171205194055/http://www.rte.ie/tv50/essays/claudiacarroll.html">Claudia Carroll's essay</a>
 
 
@@ -179,39 +177,51 @@ Aight, so we got this thing produced by Cork Opera House and the Belltable Arts 
 11. <a href="https://www.16thstreet.com.au/tutors/karen-davitt/">Karen Davitt's page</a>
 
 
-    </p>
-
-
 <p>
 
 
 12. <a href="https://stillslibrary.rte.ie/indexplus/result.html?_IXFIRST_=1&_IXSR_=oPkDW4wRlCP&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSP_=30&_IXACTION_=query&_IXSPFX_=templates%2fb&_IXFPFX_=templates%2ft&_IXMAXHITS_=10&s%3dRcB3KYnSx82">RTE's photo archives</a>
 
 
+    </p>
+    
+    <p>
+
+
 12.1. <a href="https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=7&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft">Mary Elizabeth Burke-Kennedy, Marie Hennigan Picture</a>
+
+
+    </p>
+    
+    <p>
 
 
 12.2. <a href="https://stillslibrary.rte.ie/indexplus/result.html?_IXMAXHITS_=1&_IXACTION_=query&_IXFIRST_=34&_IXSR_=Ka20lQcgs4V&_IXSS_=_IXMAXHITS_%3d10%26_IXFPFX_%3dtemplates%252ft%26_IXFIRST_%3d1%26%252asform%3d%252fweb%252fsearch_forms%252fadvanced%26%2524%253dsi%3dtext%26_IXACTION_%3dquery%26_IXINITSR_%3dy%26%2524%253dsort%3dsort%2bdescending%2bsortexpr%2bimage_sort%26search%3dsearch%26%252aiexe%2bSECURITY_filter%3d%252e%26%2524%253ds%3drimini%26text_search_context%3dRimini%26%253cphoto_taken_date_earliest%3d&_IXSPFX_=templates%2ft&_IXFPFX_=templates%2ft">Cast picture</a>
 
 
+    </p>
+    
+    <p>
+
+
 13. <a href="https://www.facebook.com/groups/182674470295/">The Facebook Group</a>
+
+
+    </p>
+    
+    <p>
 
 
 13.1. <a href="https://www.facebook.com/Noel-Lambert-Touring-Puppet-Theatre-125108057560601/">Noel Lambert Touring Theatre's Facebook</a>
 
 
     </p>
-
-
-<p>
-
-
+    
+    
 14. <a href="https://www.rte.ie/archives/2015/1221/755415-the-lambert-family/">Bit of History on the Lambert Family</a>
 
 
 15. <a href="http://www.noellambertpuppettheatre.com/">And finally, their website</a>
 
-
-    </p>
 
 !["Humanity, amirite?"]({{site.baseurl}}/images/2020pics/rrvenomcomic2.png)
