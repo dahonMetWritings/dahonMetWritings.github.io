@@ -6,21 +6,22 @@ published: true
 ## What Are You Looking At?
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… ! 
 
-
 ![_config.yml]({{site.baseurl}}/images/2020pics/rrwhatdat.png)
-test text
 
 That. Okay there’s more to it than that. Kinda. 
 
-The premise of the show is basically Gravity Falls but everyone looks like a smooshed cake. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery things the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents die. [7]
+The premise of the show is basically Gravity Falls but everyone looks like a smooshed cake. You got these kids, not Dipper, not Mabel, not Dipper, and also not Mabel. They get sent to live with the greedy sibling of one of their parents. There’s also some spooky-mystery things the kids gotta deal with. [6] Like a portrait of these little girls who drowned in the ocean. That their aunt just has hanging around. Or not-Dipper’s toy otter being some baby-eating demon (but he turns good later so it's cool). Or a half-melted candle tryna get Aunt Vera's dosh. Or the fact they gotta move in with said Aunt Vera after their parents died. [7]
 
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/GodDamnPuppets.png" width="384" height="256" align=right/>
 
 As far as non-diegetic stuff goes, the show was aired on the network, RTE, and produced by eircom.[9]  The former’s clearly going strong today while the latter seemingly hasn’t existed since the 90’s. Speaking of which, the show aired between 1992 and 1995.
 
-<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/noellambertlogo.PNG"  width="333" height="151" align=right />
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/noellambertlogo.PNG"  width="236" height="108" align=right />
 
 The little monsters you see on your screen were made by the Noel Lambert Touring Puppet Theatre company. Yeah some poor sacks had to pay other poor sacks to make these piss-poor sacks. Although they're clearly making better stuff now, so good for them. [13]
-    
+
+<img src="https://raw.githubusercontent.com/dahonMetWritings/dahonMetWritings.github.io/master/images/2020pics/noellambertlogo.PNG"  width="333" height="151" align=right />
+
 So how does this all add up?  What are the personalities of the three main characters? Why is this house called the Rimini house? [10] And why did the Irish Times trash what looked to be a theatrical adaptation back in the day? [6]
 
 Yeah that’s the thing. Nobody knows anything about it. ‘Cause the show’s lost. Most of the info we have is about the show's actors and actresses. Which is why I decided to research whoever had their names on RTE’s website in relation to the show.
