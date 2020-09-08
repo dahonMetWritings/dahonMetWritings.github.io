@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![_config.yml]({{site.baseurl}}/images/rrfinal1.png)
+![rrfinal1.png]({{site.baseurl}}/images/rrfinal1.png)
 
 ## What Are You Looking At?
 You may have heard the name “Rimini Riddle” around the internet here and there. But in case you haven’t, it's basically… 
