@@ -5,5 +5,8 @@ permalink: /directory/
 ---
 
 ### 2020
-June 23rd 2020 - [test post](https://dahonmetwritings.github.io/Test-Post/)
+
+## September
+September 7th 2020 - <a href="https://dahonmetwritings.github.io/The-Hunt-For-Rimini-Riddle/">The Hunt for Rimini Riddle</a>
+
 
